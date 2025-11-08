@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/clonixinato-de-lisin",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a clonixinato-de-lisin",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/clonixinato-de-lisin.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.logicfen.org/blog/clonixinato-de-lisina/"
+    },
+    "homepage": "https://www.logicfen.org/blog/clonixinato-de-lisina/"
+}
